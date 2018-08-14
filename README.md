@@ -1,7 +1,8 @@
 # Connect-Four
 
-A board game that mix the rules of Chinese Chess and Gomoku. You can place chess like Gomoku of move the Chess and attacking component's chess like Chinese Chess and the like Gomoku. 
-The winner is the first player to form an unbroken chain of FOUR CHESE horizontally, vertically, or diagonally
+A board game that combines the rules of Chinese Chess with Gomoku. You can place chess like Gomoku,move the chess and attack opponent's chess like Chinese Chess and Gomoku.
+The winner is the first player who form an unbroken chain of FOUR CHESES horizontally, vertically, or diagonally.
 
 Tel: +15143980325
+
 Email:  s250ps@gmail.com
